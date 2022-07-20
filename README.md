@@ -138,3 +138,16 @@ Features and Benefits:
 These are tasks like bundling and minifying scripts and style sheets, compiling less or sass to CSS styles, deploying files to servers, image compressing, etc. So, in simple terms Gulp is a task runner tool while tools like Bower, npm are package managers.
 
 Gulp is built upon Node.js and it already has a strong community that builds various plugins for performing various tasks. There are currently more than 3000+ plugins available here which makes almost every possible task we can think of can be automated. The gulp tasks are writted in JavaScript file called gulpfile.js which will be executed by Gulp tool.
+
+
+### 1.7 Graphite
+
+<a href="https://dmiot.ir">  
+    <p align="center"><img src="img/tools/graphite.jpg" width="600"></p>
+</a>
+
+[Graphite](https://graphiteapp.org) is a highly scalable real-time graphing system. As a user, you write an application that collects numeric time-series data that you are interested in graphing, and send it to Graphite’s processing backend, carbon, which stores the data in Graphite’s specialized database. The data can then be visualized through graphite’s web interfaces.
+
+Anybody who would want to track values of anything over time. If you have a number that could potentially change over time, and you might want to represent the value over time on a graph, then Graphite can probably meet your needs.
+
+Specifically, Graphite is designed to handle numeric time-series data. For example, Graphite would be good at graphing stock prices because they are numbers that change over time. Whether it’s a few data points, or dozens of performance metrics from thousands of servers, then Graphite is for you. As a bonus, you don’t necessarily know the names of those things in advance (who wants to maintain such huge configuration?); you simply send a metric name, a timestamp, and a value, and Graphite takes care of the rest!
