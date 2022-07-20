@@ -29,7 +29,7 @@ These are some of the popular DevOps automation tools:
 <p align="center"><img src="img/tools/jenkins.png" width="600"></p>    
 </a>  
 
-Jenkins is an open source and free automation server that helps automate software
+[Jenkins](https://www.jenkins.io/) is an open source and free automation server that helps automate software
 development processes such as building, facilitating CI/CD, deploying, and testing.
 This DevOps tool makes it easy for teams to monitor repeated tasks, integrate changes
 easily, and identify issues quickly.
