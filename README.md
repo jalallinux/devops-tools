@@ -125,3 +125,16 @@ Features and Benefits:
 - It helps you scale out your development easily with blazing-fast builds.
 - Useful for developing mobile applications to microservices
 - It’s versatile and can be used by start-ups and enterprises both
+
+
+### 1.6 Gulp
+
+<a href="https://dmiot.ir">  
+    <p align="center"><img src="img/tools/gulp.jpg" width="600"></p>
+</a>
+
+[Gulp](https://gulpjs.com) is yet another tool from open-source community to automate repetitive tasks in web development. While tools like bower, npm (Node Package Manager) helps us to download and configure re-usable packages in our application, Gulp helps us to automate many of the time-consuming repetitive client-side tasks.
+
+These are tasks like bundling and minifying scripts and style sheets, compiling less or sass to CSS styles, deploying files to servers, image compressing, etc. So, in simple terms Gulp is a task runner tool while tools like Bower, npm are package managers.
+
+Gulp is built upon Node.js and it already has a strong community that builds various plugins for performing various tasks. There are currently more than 3000+ plugins available here which makes almost every possible task we can think of can be automated. The gulp tasks are writted in JavaScript file called gulpfile.js which will be executed by Gulp tool.
