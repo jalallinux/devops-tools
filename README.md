@@ -85,3 +85,20 @@ Features and Benefits:
 - It uses a declarative language of its own to define system configuration
 - It helps reduce manual errors and supports your team to scale with infrastructure as Code and agentless automation
 - Puppet’s commercial software offers out-of-the-box reporting, node management, orchestration, product support, and access control
+
+
+### 1.4 Apache Maven
+
+<a href="https://dmiot.ir">  
+    <p align="center"><img src="img/tools/apache-maven.png" width="600"></p>
+</a>
+
+Developed by the Apache Software Foundation and released in 2004, [Maven](https://maven.apache.org/) is an efficient build automation tool. Written in Java, it’s used mainly for Java-based projects and acts as a project management and a comprehension tool.
+As a DevOps tool, it helps manage the build, documentation, and reporting of a project. Apart from Java-based projects, you can also use Maven to develop and manage software projects written in Ruby, C#, Scala, and others.
+
+Features and Benefits:
+
+- Maven has predefined targets to perform well-defined tasks like code compilation and packaging.
+- It downloads Maven plugins and Java libraries from its repositories to help accelerate the development process.
+- It has the Apache License 2.0
+- Maven comes with excellent dependency management such as automatic updating, transitive dependencies, and dependency closures.
