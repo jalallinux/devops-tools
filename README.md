@@ -113,7 +113,7 @@ Features and Benefits:
     <p align="center"><img src="img/tools/gradle.png" width="600"></p>
 </a>
 
-Accelerate your software development productivity using Gradle. This is also amongst open-source DevOps tools for build automation, especially for multi-language application or software development.
+Accelerate your software development productivity using Gradle. [Gradle](https://gradle.org) is also amongst open-source DevOps tools for build automation, especially for multi-language application or software development.
 Gradle is written in Java, Kotlin, and Groovy and was released in 2007. It’s used to automate software development, testing, and deployment at improved speeds.
 
 Features and Benefits:
