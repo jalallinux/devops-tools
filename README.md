@@ -33,6 +33,7 @@ These are some of the popular DevOps automation tools:
 development processes such as building, facilitating CI/CD, deploying, and testing.
 This DevOps tool makes it easy for teams to monitor repeated tasks, integrate changes
 easily, and identify issues quickly.
+
 Features and Benefits:
 
 - Jenkins supports 100+ plugins to integrate with almost every tool available in
@@ -58,6 +59,7 @@ to accelerate builds, tests, as well as deployments
 A leader in software containerization, [Docker](http://docker.com) is used by 11 million+ developers across the world. Solomon Hykes is its original author and it was released in 2013 by Docker, Inc.
 As a DevOps tool, Docker helps developers to build, package, and then deploy the codes with ease and speed via containers with needed dependencies instead of virtual machines. It eliminates mundane configuration activities and fosters effective team collaboration.
 Docker ensures that the same software development environment is maintained across every stage of a DevOps cycle, from development to staging and production. It empowers the developers to create Docker images that they can run in the development environment and operation teams to perform testing and deployments.
+
 Features and Benefits:
 
 - Docker uses OS-level virtualization to deliver applications in packages referred to as a container. It isolates these containers from each other and bundles the software, configuration files, and libraries, making them transferable and more secure.
@@ -78,6 +80,7 @@ Features and Benefits:
 
 Developed by Puppet, Inc. and founded in 2005 by Luke Kanies, [Puppet](https://puppet.com) is an open-source tool for software configuration management.
 This DevOps automation tool helps manage different software lifecycle stages such as provisioning of IT infrastructure, patching, and configuration & management of software components and OS across cloud infrastructures and data centers.
+
 Features and Benefits:
 
 - It’s written in C++, Ruby, and Clojure and works with Windows, Linux, and Unix-like operating systems.
@@ -102,3 +105,23 @@ Features and Benefits:
 - It downloads Maven plugins and Java libraries from its repositories to help accelerate the development process.
 - It has the Apache License 2.0
 - Maven comes with excellent dependency management such as automatic updating, transitive dependencies, and dependency closures.
+
+
+### 1.5 Gradle
+
+<a href="https://dmiot.ir">  
+    <p align="center"><img src="img/tools/gradle.png" width="600"></p>
+</a>
+
+Accelerate your software development productivity using Gradle. This is also amongst open-source DevOps tools for build automation, especially for multi-language application or software development.
+Gradle is written in Java, Kotlin, and Groovy and was released in 2007. It’s used to automate software development, testing, and deployment at improved speeds.
+
+Features and Benefits:
+
+- Gradle has a rich API along with an advanced ecosystem of integrations and plugins to help with automation so that you can develop, integrate, and then systematize end-to-end software delivery.
+- It has the Apache License 2.0
+- Introduces a Kotlin based and Groovy-based DSL
+- Uses directed acyclic graphs to prioritize tasks to run via dependency management.
+- It helps you scale out your development easily with blazing-fast builds.
+- Useful for developing mobile applications to microservices
+- It’s versatile and can be used by start-ups and enterprises both
