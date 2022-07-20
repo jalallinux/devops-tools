@@ -70,3 +70,18 @@ Features and Benefits:
 - Docker is used by enterprises like Netflix, Adobe, AT&T, PayPal, etc.
 
 
+### 1.3 Puppet
+
+<a href="https://dmiot.ir">  
+    <p align="center"><img src="img/tools/puppet.png" width="600"></p>
+</a>
+
+Developed by Puppet, Inc. and founded in 2005 by Luke Kanies, [Puppet](https://puppet.com) is an open-source tool for software configuration management.
+This DevOps automation tool helps manage different software lifecycle stages such as provisioning of IT infrastructure, patching, and configuration & management of software components and OS across cloud infrastructures and data centers.
+Features and Benefits:
+
+- It’s written in C++, Ruby, and Clojure and works with Windows, Linux, and Unix-like operating systems.
+- Puppet is a model-driven tool that needs limited use of programming language.
+- It uses a declarative language of its own to define system configuration
+- It helps reduce manual errors and supports your team to scale with infrastructure as Code and agentless automation
+- Puppet’s commercial software offers out-of-the-box reporting, node management, orchestration, product support, and access control
