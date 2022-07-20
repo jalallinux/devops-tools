@@ -26,8 +26,8 @@ These are some of the popular DevOps automation tools:
 ### 1.1 Jenkins
 
 <a href="https://dmiot.ir">  
-<p align="center"><img src="img/tools/jenkins.png" width="600"></p>    
-</a>  
+    <p align="center"><img src="img/tools/jenkins.png" width="600"></p>
+</a>
 
 [Jenkins](https://www.jenkins.io/) is an open source and free automation server that helps automate software
 development processes such as building, facilitating CI/CD, deploying, and testing.
@@ -49,7 +49,24 @@ development project.
 to accelerate builds, tests, as well as deployments
 
 
+### 1.2 Docker
 
+<a href="https://dmiot.ir">  
+    <p align="center"><img src="img/tools/docker.png" width="600"></p>
+</a>
 
+A leader in software containerization, [Docker](http://docker.com) is used by 11 million+ developers across the world. Solomon Hykes is its original author and it was released in 2013 by Docker, Inc.
+As a DevOps tool, Docker helps developers to build, package, and then deploy the codes with ease and speed via containers with needed dependencies instead of virtual machines. It eliminates mundane configuration activities and fosters effective team collaboration.
+Docker ensures that the same software development environment is maintained across every stage of a DevOps cycle, from development to staging and production. It empowers the developers to create Docker images that they can run in the development environment and operation teams to perform testing and deployments.
+Features and Benefits:
+
+- Docker uses OS-level virtualization to deliver applications in packages referred to as a container. It isolates these containers from each other and bundles the software, configuration files, and libraries, making them transferable and more secure.
+- It works easily with GCP and AWS and simplifies cloud migration
+- Docker facilitates distributed development
+- The tool makes it easy to add features and perform fixes
+- Docker runs in Windows, macOS, and Linux
+- It integrates well with deployment pipeline tools like CircleCI, GitHub, etc.
+- It offers both open source and commercial solutions
+- Docker is used by enterprises like Netflix, Adobe, AT&T, PayPal, etc.
 
 
